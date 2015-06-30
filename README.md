@@ -50,7 +50,7 @@ staff.
 
 Below is a diagram showing an example of this setup:
 
-![Container development environment diagram](https://raw.githubusercontent.com/stevenalexander/docker-development-environment/master/images/container-development-environment.jpg "Container development environment diagram")
+![Container development environment diagram](https://raw.githubusercontent.com/stevenalexander/docker-development-environment/master/container-development-environment.jpg "Container development environment diagram")
 
 
 Optionally, containers aren't just limited to headless processes, you can run
